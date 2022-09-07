@@ -7,7 +7,10 @@ catboost_info/*
 *catboost_info
 # C extensions
 *.so
-housing/artifact
+insurance/artifact
+venv
+venv/
+venv/*
 # Distribution / packaging
 .Python
 build/
@@ -28,7 +31,6 @@ share/python-wheels/
 .installed.cfg
 *.egg
 MANIFEST
-
 # PyInstaller
 #  Usually these files are written by a python script from a template
 #  before PyInstaller builds the exe, so as to inject date/other infos into it.
