@@ -8,7 +8,7 @@
 ### 1. Environment setup.
 Run these commands in CLI
 ```
-conda create --prefix venv python=3.9 -y
+conda create --prefix venv python==3.9 -y
 ```
 ```
 conda activate venv/
